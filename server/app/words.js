@@ -5,10 +5,9 @@
 var fs = require("fs");
 
 const PACK_NAMES = [
+	"OSA Super Wellness Week",
 	"Simple words (recommended)",
 	"Advanced words",
-	"Immature words (13+)",
-	"Naughty words (18+)",
 	"Animals",
 	"Adjectives",
 	"Verbs"

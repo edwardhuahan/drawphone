@@ -182,7 +182,7 @@ function Screen() {
 	this.isLoading = true;
 
 	this.defaultTitle =
-		'<div class="animated-title"><span class="drawphone-d">D</span><span class="drawphone-r">r</span><span class="drawphone-a">a</span><span class="drawphone-w">w</span><span class="drawphone-p">p</span><span class="drawphone-h">h</span><span class="drawphone-o">o</span><span class="drawphone-n">n</span><span class="drawphone-e">e</span></div>';
+		'<div class="animated-title"><span class="drawphone-d">OSA Telestrations</span></div>';
 	this.defaultSubtitle = "Telephone with pictures";
 }
 
