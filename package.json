@@ -9,7 +9,7 @@
 		"start:dev": "nodemon --exec npm run start:prod --ignore public/",
 		"build:dev": "webpack --mode development --watch",
 		"start:prod": "node --optimize_for_size --max_old_space_size=460 ./server/bin/www",
-		"build:prod": "webpack"
+		"build:prod": "webpack --mode none"
 	},
 	"repository": {
 		"type": "git",
